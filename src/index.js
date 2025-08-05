@@ -1,6 +1,6 @@
 let nomeHeroi = "Reikkan"
-let xpHeroi = 7512
-let nivel = ""
+let xpHeroi = 1356
+let nivelHeroi = ""
 
 if (xpHeroi <= 1000) {
     nivelHeroi = "Ferro";
